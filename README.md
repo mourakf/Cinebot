@@ -1,8 +1,7 @@
 
 # Cinebot
 
-Chatbot construído na plataforma Take Blip para teste técnico de desenvolvedor.
-
+Chatbot construído na plataforma Take Blip.
 
 ### Requisitos
  Fazer fluxo conversacional com:
